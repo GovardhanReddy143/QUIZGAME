@@ -1,0 +1,13 @@
+.quiz-game-container {
+  text-align: center;
+  padding: 2rem;
+}
+
+button {
+  margin: 0.5rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}

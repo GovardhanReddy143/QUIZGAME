@@ -1,0 +1,23 @@
+.game-results-container {
+  text-align: center;
+  padding: 2rem;
+}
+
+.results-trophy-image {
+  width: 200px;
+  margin-bottom: 1rem;
+}
+
+button {
+  margin: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
